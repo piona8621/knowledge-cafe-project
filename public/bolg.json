@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "cover": "https://media.gettyimages.com/id/1389962390/vector/web-development-isometric-design.jpg?s=612x612&w=gi&k=20&c=HXzg3KFlMdQuJ0mdZOmRudla9H1hKfuIENiR4NIpakQ=",
     "title": "Exploring the Modern Web",
     "author": "Jane Doe",
     "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
@@ -50,3 +50,6 @@
     "hashtags": ["#nodejs", "#api", "#backend"]
   }
 ]
+
+
+
